@@ -86,25 +86,9 @@ Yukarıdaki kategorilere uymayan ancak kayda değer projeler.
 
 ## Katkıda Bulunma
 
-BTT Community üyesiyseniz veya toplulukla ilişkili kayda değer bir projeniz varsa listeye katkıda bulunabilirsiniz.
+awesome-btt'ye katkıda bulunmak, yeni projeler eklemek veya mevcut girdileri düzenlemek istiyorsanız [CONTRIBUTING.md](CONTRIBUTING.md) dosyasındaki katkı rehberine göz atın.
 
-Yeni bir proje eklemek için:
-
-1. Projenizin yukarıdaki kategorilerden birine uygun olduğundan emin olun.
-2. Projeyi ilgili kategoriye ekleyin.
-3. Projenin adını bağlantı olarak ekleyin.
-4. Projeyi **tek cümleyle** açıklayın.
-5. Değişikliklerinizi bir Pull Request olarak gönderin.
-
-### Proje kriterleri
-
-Bir projenin listeye eklenebilmesi için:
-
-* Gerçek ve erişilebilir bir proje olması,
-* Projenin açıklamasının açıkça anlaşılabilir olması,
-* Spam, reklam veya düşük kaliteli içerik olmaması
-
-beklenir.
+Pull Request'ler ve yeni proje önerileri memnuniyetle karşılanır.
 
 Projenin çok fazla ⭐ alması şart değildir. **Amaç popüler projeleri değil, topluluk tarafından üretilen kaliteli projeleri keşfedilebilir hale getirmektir.**
 
