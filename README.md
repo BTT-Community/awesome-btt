@@ -9,7 +9,7 @@ Bu liste, **Bilinçli Teknoloji Tüketicileri (BTT)** topluluğunun üyeleri tar
 
 ## İçindekiler
 
-* [İşletim Sistemleri](#işletim-sistemleri)
+* [İşletim Sistemleri](#i̇şletim-sistemleri)
 * [Yazılımlar](#yazılımlar)
 * [Geliştirici Araçları](#geliştirici-araçları)
 * [Web Projeleri](#web-projeleri)
@@ -34,15 +34,21 @@ BTT üyeleri tarafından geliştirilen işletim sistemleri ve dağıtımlar.
 
 Masaüstü uygulamaları, yardımcı programlar ve diğer kullanıcı yazılımları.
 
+* **[Strumer](https://github.com/thevalmarch/strumer)** — Laptop trackpad'ini düşük gecikmeli bir MIDI enstrümanına dönüştüren, MIDI, dahili synth, jest ve eklenti desteği sunan çapraz platform uygulama.
 
 ## Geliştirici Araçları
 
 Programlama, derleme, hata ayıklama ve yazılım geliştirme araçları.
 
+* **[Inoculum](https://github.com/thevalmarch/inoculum)** — Aynı yerel ağdaki bilgisayarları bağımsız işler için küçük bir dağıtık işlem havuzuna dönüştüren Go tabanlı araç. FIFO kuyruk, lease tabanlı görev sahipliği ve worker failover desteği sunar.
+
+* **[Ducked](https://github.com/thevalmarch/ducked)** — GitHub repolarını izole Docker container'larında otomatik build edip kısa süreli canlı çalıştıran self-hosted geliştirici aracı.
 
 ## Web Projeleri
 
 Web siteleri, servisler, platformlar ve internet tabanlı projeler.
+
+* **[Opal Emu](https://github.com/thevalmarch/opalemu)** — ROM dosyalarını tamamen tarayıcı içinde çalıştıran, çoklu sistem destekli açık kaynak retro oyun emülatörü. Kurulum, hesap veya sunucuya dosya yükleme gerektirmez.
 
 
 ## Komut Satırı Araçları
@@ -58,6 +64,8 @@ Yazılım geliştiricileri için kütüphaneler, framework'ler ve API'ler.
 ## Yapay Zeka
 
 Yapay zeka, makine öğrenmesi, LLM ve ilgili araçlar.
+
+* **[Opal Emu MCP](https://github.com/thevalmarch/opalemu-mcp)** — Claude ve GPT gibi LLM ajanlarının Opal Emu üzerinden retro oyunları otonom oynayabilmesini sağlayan MCP sunucusu. Gerçek emülatörü Playwright ile çalıştırır ve ekran görüntüsü, kontrol girdisi, frame ilerletme ve ROM yükleme araçlarını ajanlara açar.
 
 
 ## Güvenlik ve Gizlilik
