@@ -28,6 +28,7 @@ Bu liste, **Bilinçli Teknoloji Tüketicileri (BTT)** topluluğunun üyeleri tar
 
 BTT üyeleri tarafından geliştirilen işletim sistemleri ve dağıtımlar.
 
+* **[Ankora OS](https://github.com/Parsozkn/Ankora-Linux)** — Debian 12 tabanlı; ZRAM bellek sıkıştırma, Preload uygulama önbellekleme ve Feral GameMode ile kutudan çıktığı gibi optimize edilmiş, XFCE/KDE/i3 seçenekleri sunan hafif ve bloatware'siz bir Linux dağıtımı.
 * **[Tunix](https://github.com/tunixos/tunix)** — Linux ABI uyumluluğunu hedefleyen, sıfırdan yazılmış bir işletim sistemi projesi.
 
 ## Yazılımlar
