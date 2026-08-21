@@ -85,6 +85,8 @@ Siber güvenlik, gizlilik, anonimlik ve güvenli iletişim araçları.
 
 Oyunlar, oyun motorları, modlar ve oyun geliştirme projeleri.
 
+* **[UnityExtractor](https://github.com/YunusTAS13/UnityExtractor)** — Unity oyunlarından texture, sprite, ses, font, mesh ve C# kodları dahil tüm asset'leri GUI veya komut satırıyla çıkaran; değiştirip geri yazmaya da imkân veren Python tabanlı modlama aracı.
+
 
 ## Diğer
 
