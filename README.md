@@ -59,6 +59,8 @@ Web siteleri, servisler, platformlar ve internet tabanlı projeler.
 
 Terminal ve CLI odaklı projeler.
 
+* **[ark](https://github.com/YunusTAS13/ark-registry)** — Tek bir statik Go ikilisinden ibaret, `.ark` (tar.gz + manifest.json) paketlerini Debian'dan Arch'a her dağıtımda SHA-256 doğrulamalı kurabilen; registry'si tamamen GitHub Releases üzerinde çalışan sunucusuz ve ücretsiz evrensel Linux paket yöneticisi.
+
 * **[Flint](https://github.com/sunaipa5/flint)** — Terminal tabanlı proje, çalışma alanı ve şablon yöneticisi. Projeleri doğrudan editörde veya dosya yöneticisinde açmayı, çalışma ortamlarını başlatmayı ve yeni projeleri hazır şablonlarla oluşturmayı sağlar.
 
 
