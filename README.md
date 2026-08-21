@@ -34,6 +34,7 @@ BTT üyeleri tarafından geliştirilen işletim sistemleri ve dağıtımlar.
 
 Masaüstü uygulamaları, yardımcı programlar ve diğer kullanıcı yazılımları.
 
+* **[Aevum](https://github.com/Alonera/Aevum)** — yt-dlp ve FFmpeg'i gömülü barındıran, ~1.800 siteden video/ses indirebilen; reklam, takip ve telemetri içermeyen, tek dosyalık açık kaynak masaüstü indirici.
 * **[Strumer](https://github.com/thevalmarch/strumer)** — Laptop trackpad'ini düşük gecikmeli bir MIDI enstrümanına dönüştüren, MIDI, dahili synth, jest ve eklenti desteği sunan çapraz platform uygulama.
 - **[Clash Royale Clan Bot](https://github.com/omerk-c/Clash-Royale-Clan-Bot)** — Clash Royale klanlarını Discord üzerinden yönetmeyi sağlayan; savaş takibi, aktivite skorlaması ve rozet sistemi sunan bot.
 
