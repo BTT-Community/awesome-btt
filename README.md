@@ -49,6 +49,8 @@ Programlama, derleme, hata ayıklama ve yazılım geliştirme araçları.
 
 Web siteleri, servisler, platformlar ve internet tabanlı projeler.
 
+* **[ChessViewer](https://github.com/chessviewer-org/chess-viewer)** — FEN yapıştırarak herhangi bir satranç pozisyonunu kurup tahtayı özelleştirebildiğin ve sonucu baskı/blog/video için yüksek çözünürlüklü PNG, JPEG veya SVG olarak dışa aktarabildiğin, tamamen tarayıcıda çalışan gizlilik odaklı satranç diyagram editörü ([chessvision.org](https://chessvision.org)).
+
 * **[Opal Emu](https://github.com/thevalmarch/opalemu)** — ROM dosyalarını tamamen tarayıcı içinde çalıştıran, çoklu sistem destekli açık kaynak retro oyun emülatörü. Kurulum, hesap veya sunucuya dosya yükleme gerektirmez.
 
 
