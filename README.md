@@ -56,6 +56,8 @@ Web siteleri, servisler, platformlar ve internet tabanlı projeler.
 
 Terminal ve CLI odaklı projeler.
 
+* **[Flint](https://github.com/sunaipa5/flint)** — Terminal tabanlı proje, çalışma alanı ve şablon yöneticisi. Projeleri doğrudan editörde veya dosya yöneticisinde açmayı, çalışma ortamlarını başlatmayı ve yeni projeleri hazır şablonlarla oluşturmayı sağlar.
+
 
 ## Kütüphaneler
 
