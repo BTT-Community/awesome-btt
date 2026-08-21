@@ -34,6 +34,7 @@ BTT üyeleri tarafından geliştirilen işletim sistemleri ve dağıtımlar.
 
 Masaüstü uygulamaları, yardımcı programlar ve diğer kullanıcı yazılımları.
 
+- **[Clash Royale Clan Bot](https://github.com/omerk-c/Clash-Royale-Clan-Bot)** — Clash Royale klanlarını Discord üzerinden yönetmeyi sağlayan; savaş takibi, aktivite skorlaması ve rozet sistemi sunan bot.
 
 ## Geliştirici Araçları
 
