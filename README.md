@@ -81,6 +81,8 @@ Yapay zeka, makine öğrenmesi, LLM ve ilgili araçlar.
 
 Siber güvenlik, gizlilik, anonimlik ve güvenli iletişim araçları.
 
+* **[SCR4WP Shield](https://github.com/scr4wp/scr4wp-shield)** — Tor yönlendirme, DNS sızıntı koruması, nftables tabanlı kill-switch, bütünlük doğrulama ve otomatik güvenlik kontrolleri sunan Linux odaklı gizlilik ve OPSEC güvenlik framework'ü.
+
 
 ## Oyun
 
